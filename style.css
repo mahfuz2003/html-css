@@ -1,0 +1,217 @@
+*{
+    margin: 0px;
+    padding: 0px;
+   
+}
+.header{
+    background: url(./pngtree-sky-blue-solid-coage_396578.jpg);
+    height: 556px;
+    background-size: cover;
+    width: 1366px;
+    text-align: center;
+    background-repeat: no-repeat;
+  
+}
+.manu{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: rgba(0,0,0,0.7) url(./pngtree-sky-blue-solid-coage_396578.jpg);
+   
+    background-blend-mode: darken;
+
+}
+.logo{
+    height:50px;
+    width: 50px;
+    cursor: pointer;
+    margin-left: 30px;
+    
+}
+.manu ul li{
+    display: inline-block;
+    padding: 5px 20px;
+}
+.manu ul li a{
+    display: inline-block;
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 5px 10px;
+}
+.manu ul li a:hover{
+    background: green;
+    color: yellow;
+    border: 1px solid orange;
+    box-shadow: 1px 1px 5px black;
+    border-radius: 10px;
+}
+.sign{
+    margin-right: 30px;
+    font-weight: bold;
+    text-decoration: none;
+    color: aliceblue;
+    font-size: 20px;
+    background: rgb(248, 2, 158);
+    padding: 5px 10px;
+    color: rgb(255, 255, 255);
+    border-radius: 10px;
+}
+.sign:hover{
+    background: green;
+    color: yellow;
+    border: 1px solid rgb(255, 162, 0);
+    border-radius: 10px;
+    box-shadow: 1px 1px 5px white;
+}
+.gril{
+    margin-left: 697px;
+    height: 448px;
+    margin-top: -287px;
+    padding: 0px 20px;
+}
+.all{
+    margin-top: 191px;
+    margin-left: -466px;
+    color: white;
+}
+.head-write{
+ font-size: 40px;
+ font-weight: bold;
+}
+.pha{
+    font-size: 17px;
+    letter-spacing: 1px;
+    word-spacing: -1px;
+    line-height: 24px;
+
+}
+.get{
+    background: orangered;
+    padding: 5px 27px;
+    color: aliceblue;
+    text-decoration: none;
+    font-size: 20px;
+    border-radius: 10px;
+    transition: .5s;
+}
+.get:hover{
+    background: green;
+    color: yellow;
+    box-shadow: 1px 1px 5px black;
+}
+/* important text*/
+.mata{
+text-align: center;
+}
+.hospital{
+    font-size: 30px;
+    color: rgb(250, 179, 0);
+
+}
+.box{
+    width: 277px;
+    height: 324px;
+    border: 1px solid orange;
+    margin-left: 125px;
+    display: inline-block;
+    border-radius: 10px;
+    box-shadow: 1px 1px 5px black;
+    transition: .5s;
+}
+.box:hover{
+    border: 1px 1px 5px orange;
+}
+.logo1{
+    height: 60px;
+    width: 60px;
+    cursor: pointer;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 107px;
+    box-shadow: 1px 1px 5px #ff0e00;
+    border-radius: 50%;
+    
+}
+.ho{
+    text-align: center;
+    font-size: 21px;
+    font-weight: bold;
+    margin-right: 3px;
+    color: orange;
+    letter-spacing: 1px;
+}
+.para{
+    line-height: 29px;
+    text-align: center;
+
+}
+
+.box1{
+    width: 1106px;
+    height: 128px;
+    border: 1px solid orange;
+    margin-left: 125px;
+    display: inline-block;
+    border-radius: 10px;
+    box-shadow: 1px 1px 5px black;
+    transition: .7s;
+}
+.box1:hover{
+    border: 1px 1px 5px rgb(26, 255, 0);
+    background: rgb(243, 6, 140);
+    color: white;
+    
+}
+.phaa{
+    line-height: 26px;
+    margin-left: 165px;
+    margin-top: -86px;
+}
+.ho1{
+    text-align: center;
+    font-size: 21px;
+    font-weight: bold;
+    margin-right: 3px;
+    color:green;
+    letter-spacing: 1px;
+    margin-top: 19px; 
+}
+
+.clas{
+    width: 157px;
+    margin-top: -45px;
+    height: 130px;
+   border-radius: 10px;
+   background-color: white;
+ 
+}
+.visiable{
+    width: 277px;
+    height: 338px;
+    border: 1px solid orange;
+    margin-left: 47px;
+    display: inline-block;
+    border-radius: 10px;
+    box-shadow: 1px 1px 5px black;
+    display: inline-block;
+}
+
+.poto1{
+
+    width: 278px;
+    margin-top: -1px;
+    height: 182px;
+    border-radius: 10px;
+    background-color: white;
+ 
+}
+.had{
+    text-align: center;
+    font-size: larger;
+}
+.pa{
+    line-height: 26px;
+   text-align: center;  
+}
